@@ -1,3 +1,3 @@
 
-## Dipesh Thapa🙋‍♂️👋
+## Dipesh Thapa🙋‍♂️
 
