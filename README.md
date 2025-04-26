@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 📫 How to reach me **dipesh@gmail.com**
+- 📫 How to reach me **dipesht468@gmail.com**
 
 
 
