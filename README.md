@@ -31,7 +31,7 @@
 ---
 
 ### 💫 About Me
-- 🔭 Currently building on frontend projects
+- 🔭 Currently building frontend projects
 - 🌱 Always learning new technologies
 ---
 
