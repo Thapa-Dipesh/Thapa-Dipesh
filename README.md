@@ -9,9 +9,11 @@ Highly motivated developer focused on building scalable, user-centric web applic
 
 | Project | Tech Stack | Key Feature |
 | :--- | :--- | :--- |
+| **⌚ Watchly** | Next.js, TypeScript, MongoDB  | Full CRUD Operation |
 | **🛍️ E-commerce Hub** | React, Redux Toolkit, Node | Inventory Management & Optimized Search |
+| **👥 Employee Management** | React, Typescript, Context API | Full CRUD with Client-side Persistence |
 | **🚖 Uber Clone** | MERN, JWT, Tailwind | Secure Auth & Real-time Ride Logic |
-| **👥 Employee Management** | React, Context API | Full CRUD with Client-side Persistence |
+
 
 ---
 
