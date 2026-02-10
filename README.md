@@ -1,21 +1,20 @@
 # Hi 👋, I'm Dipesh Thapa
 
-### 🎓 Computer Engineering Graduate | MERN Stack Developer
-Highly motivated developer focused on building scalable, user-centric web applications. Specializing in **React, Next.js, and Node.js**, with a strong foundation in engineering principles and database management.
+### 🎓 Computer Engineering Graduate | Full-Stack Developer
+Highly motivated developer focused on building scalable, user-centric web applications. Specializing in **Modern React (v19), Next.js, and Node.js**, with a strong foundation in engineering principles and database architecture.
 
 ---
 
 ### 🚀 Featured Projects (Proof of Work)
 
-| Project | Tech Stack | Key Feature |
-| :--- | :--- | :--- |
-| **⌚ Watchly** | Next.js, TypeScript, MongoDB  | Full CRUD Operation |
-| **🛍️ E-commerce Hub** | React, Redux Toolkit, Node | Inventory Management & Optimized Search |
-| **👥 Employee Management** | React, Typescript, Context API | Full CRUD with Client-side Persistence |
-| **🚖 Uber Clone** | MERN, JWT, Tailwind | Secure Auth & Real-time Ride Logic |
-
+| Project | Tech Stack | Key Feature | Links |
+| :--- | :--- | :--- | :--- |
+| **🚀 KODEX (Blog)** | React 19, Node, PostgreSQL | Cloudinary Optimization & JWT Auth | [Demo](https://mykodex.netlify.app) 
+| **⌚ Watchly** | Next.js, TypeScript, MongoDB | Server Components & Full CRUD | [Demo](https://next-watchly.netlify.app) 
+| **🛍️ E-commerce Hub** | React, Redux Toolkit, Node | Inventory Management & Optimized Search | [Demo](https://the-mern-store.netlify.app) 
 
 ---
+
 
 ### 🛠️ Languages and Tools
 
@@ -42,6 +41,14 @@ Highly motivated developer focused on building scalable, user-centric web applic
 
 ---
 
+### 💫 About Me
+- 🔭 **Currently:** Applying for **Intern/Junior Developer** roles (Remote or On-site).
+- 🎓 **Education:** B.E. in Computer Engineering.
+- 🌱 **Learning:** Advanced System Design and Scalable PostgreSQL Architectures.
+- 💬 **Ask me about:** React state management (Redux/Context), API security, and CSS architecture.
+
+---
+
 ### 📊 My GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Thapa-Dipesh&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -49,16 +56,9 @@ Highly motivated developer focused on building scalable, user-centric web applic
 
 ---
 
-### 💫 About Me
-- 🔭 **Currently:** Applying for Intern/Junior roles in **MERN Stack Development**.
-- 🎓 **Education:** B.E. in Computer Engineering (Aug 2025).
-- 🌱 **Learning:** Mastering **PostgreSQL** and Advanced **Next.js** patterns.
-- 💬 **Ask me about:** React state management and building RESTful APIs.
-
----
-
 ### 📬 Connect with Me
 - **Email:** dipesht468@gmail.com
-- **Location:** Pokhara, Nepal (Available for Remote & On-site)
+- **Location:** Pokhara, Nepal (Available for Remote & Relocation)
+- **Portfolio:** [my-portfolio](https://thapa-dipesh.github.io/my-portfolio)
 
 *"Turning complex engineering problems into clean, functional code."*
