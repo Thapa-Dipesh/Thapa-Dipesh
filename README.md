@@ -1,64 +1,113 @@
 # Hi 👋, I'm Dipesh Thapa
 
-### 🎓 Computer Engineering Graduate | Full-Stack Developer
-Highly motivated developer focused on building scalable, user-centric web applications. Specializing in **Modern React (v19), Next.js, and Node.js**, with a strong foundation in engineering principles and database architecture.
+### 🚀 Full-Stack Developer | I Build Scalable Web Apps, Booking Systems & Payment Integrations
+
+I build **production-ready web applications** using **Next.js, React 19, and Node.js** — focused on performance, scalability, and real-world business use cases.
+
+💡 Currently working on:
+- Full-stack platforms (Admin dashboards, booking systems, payment systems)
+- Real-time systems with Stripe, Prisma, and modern SSR architecture
 
 ---
 
-### 🚀 Featured Projects (Proof of Work)
+## 🔥 What I Bring
 
-| Project | Tech Stack | Key Feature | Links |
-| :--- | :--- | :--- | :--- |
-| **🚀 KODEX (Blog)** | React 19, Node, PostgreSQL | Cloudinary Optimization & JWT Auth | [Demo](https://mykodex.netlify.app) 
-| **⌚ Watchly** | Next.js, TypeScript, MongoDB | Server Components & Full CRUD | [Demo](https://next-watchly.netlify.app) 
-| **🛍️ E-commerce Hub** | React, Redux Toolkit, Node | Inventory Management & Optimized Search | [Demo](https://the-mern-store.netlify.app) 
-
----
-
-
-### 🛠️ Languages and Tools
-
-**Frontend:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
-</div>
-
-**Backend & Tools:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-</div>
+- ⚡ **Full-Stack Development:** Next.js 15, React 19, Node.js
+- 🧠 **System Thinking:** Scalable DB design, API architecture, SSR/CSR balance
+- 💳 **Real-World Integrations:** Stripe, Webhooks, Authentication, Cloudinary
+- 🚀 **Production Mindset:** CI/CD, Docker, performance optimization
 
 ---
 
-### 💫 About Me
-- 🔭 **Currently:** Applying for **Intern/Junior Developer** roles (Remote or On-site).
-- 🎓 **Education:** B.E. in Computer Engineering.
-- 🌱 **Learning:** Advanced System Design and Scalable PostgreSQL Architectures.
-- 💬 **Ask me about:** React state management (Redux/Context), API security, and CSS architecture.
+## 🚀 Featured Work (Real-World Systems)
+
+### 🧘 Karmayogi Platform (Primary Case Study)
+**Tech:** Next.js 15, Prisma, MySQL, Stripe, Cloudinary  
+- Built complete **booking + payment system**
+- Implemented **10% deposit logic & financial dashboard**
+- Designed **admin panel with analytics + LTV tracking**
+- Integrated **Stripe webhooks for real-time updates**
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Thapa-Dipesh&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 🔐 UseSSL Platform (System Integration)
+**Tech:** Next.js, Prisma, External APIs  
+- Integrated third-party SSL APIs for certificate lifecycle  
+- Built **SSO-based vendor access system**  
+- Implemented **order lifecycle + provisioning workflow**  
+- Designed backend for real-time status synchronization  
 
 ---
 
-### 📬 Connect with Me
-- **Email:** dipesht468@gmail.com
-- **Location:** Pokhara, Nepal (Available for Remote & Relocation)
-- **Portfolio:** [my-portfolio](https://thapa-dipesh.github.io/my-portfolio)
+### 🏨 Pokhara Heights Resort (SEO & Performance)
+**Tech:** Next.js, SEO, Analytics  
+- Implemented **SEO architecture (metadata, sitemap, robots)**  
+- Integrated **Google Tag Manager & Microsoft Clarity**  
+- Optimized performance and page load speed  
+- Built responsive, conversion-focused UI  
 
-*"Turning complex engineering problems into clean, functional code."*
+---
+
+## 🧪 Additional Projects
+
+### 🛍️ E-Commerce Hub  
+🔗 https://the-mern-store.netlify.app  
+- Inventory management system  
+- Optimized product search & filtering  
+
+### ⌚ Watchly  
+🔗 https://next-watchly.netlify.app  
+- Full CRUD app with Next.js + MongoDB  
+- Server Components architecture  
+
+### ✍️ KODEX Blog Platform  
+🔗 https://mykodex.netlify.app  
+- JWT authentication system  
+- Cloudinary media optimization  
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**  
+React 19 • Next.js • TypeScript • Tailwind CSS  
+
+**Backend:**  
+Node.js • Express • Prisma  
+
+**Database:**  
+PostgreSQL • MongoDB • MySQL  
+
+**Tools:**  
+Git • Docker • Postman • Cloudinary • Stripe  
+
+---
+
+## 📈 Current Focus
+
+- Advanced System Design  
+- Scalable backend architecture  
+- Building SaaS-level applications  
+
+---
+
+## 💼 Open For Opportunities
+
+I’m currently open to:
+- Remote Developer Roles  
+- Freelance Projects (Full-Stack / Next.js)  
+- Long-term product development work  
+
+---
+
+## 📬 Contact
+
+📧 Email: dipesht468@gmail.com  
+🌍 Location: Nepal (Remote Available)  
+🔗 Portfolio: https://thapa-dipesh.github.io/my-portfolio  
+
+---
+
+### ⚡ Mindset
+
+> I don’t just build projects — I build systems that solve real problems and can scale.
