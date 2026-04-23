@@ -21,35 +21,6 @@ I build **production-ready web applications** using **Next.js, React 19, and Nod
 
 ## 🚀 Featured Work (Real-World Systems)
 
-### 🧘 Karmayogi Platform (Primary Case Study)
-**Tech:** Next.js 15, Prisma, MySQL, Stripe, Cloudinary  
-- Built complete **booking + payment system**
-- Implemented **10% deposit logic & financial dashboard**
-- Designed **admin panel with analytics + LTV tracking**
-- Integrated **Stripe webhooks for real-time updates**
-
----
-
-### 🔐 UseSSL Platform (System Integration)
-**Tech:** Next.js, Prisma, External APIs  
-- Integrated third-party SSL APIs for certificate lifecycle  
-- Built **SSO-based vendor access system**  
-- Implemented **order lifecycle + provisioning workflow**  
-- Designed backend for real-time status synchronization  
-
----
-
-### 🏨 Pokhara Heights Resort (SEO & Performance)
-**Tech:** Next.js, SEO, Analytics  
-- Implemented **SEO architecture (metadata, sitemap, robots)**  
-- Integrated **Google Tag Manager & Microsoft Clarity**  
-- Optimized performance and page load speed  
-- Built responsive, conversion-focused UI  
-
----
-
-## 🧪 Additional Projects
-
 ### 🛍️ E-Commerce Hub  
 🔗 https://the-mern-store.netlify.app  
 - Inventory management system  
