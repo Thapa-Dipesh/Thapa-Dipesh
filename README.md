@@ -1,84 +1,66 @@
-# Hi 👋, I'm Dipesh Thapa
+<h1>Dipesh Thapa</h1>
 
-### 🚀 Full-Stack Developer | I Build Scalable Web Apps, Booking Systems & Payment Integrations
+**Full-Stack Engineer** · Next.js 15 · TypeScript · Prisma · MySQL
 
-I build **production-ready web applications** using **Next.js, React 19, and Node.js** — focused on performance, scalability, and real-world business use cases.
+I build production systems — payment platforms, booking engines, SaaS dashboards, and CMS tools — for real clients with real users.
 
-💡 Currently working on:
-- Full-stack platforms (Admin dashboards, booking systems, payment systems)
-- Real-time systems with Stripe, Prisma, and modern SSR architecture
-
----
-
-## 🔥 What I Bring
-
-- ⚡ **Full-Stack Development:** Next.js 15, React 19, Node.js
-- 🧠 **System Thinking:** Scalable DB design, API architecture, SSR/CSR balance
-- 💳 **Real-World Integrations:** Stripe, Webhooks, Authentication, Cloudinary
-- 🚀 **Production Mindset:** CI/CD, Docker, performance optimization
+[![Email](https://img.shields.io/badge/dipesht468@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dipesht468@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thapa--dipesh-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/thapa-dipesh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1B5E3B?style=flat)](https://thapa-dipesh.github.io/my-portfolio)
+![Location](https://img.shields.io/badge/Pokhara%2C%20Nepal-Remote%20Ready-555?style=flat)
 
 ---
 
-## 🚀 Featured Work (Real-World Systems)
+## What I've built professionally
 
-### 🛍️ E-Commerce Hub  
-🔗 https://the-mern-store.netlify.app  
-- Inventory management system  
-- Optimized product search & filtering  
+<!--  At **[Growssence](https://growssence.com)** (Pokhara), I've shipped five production systems for clients across
+e-commerce, hospitality, healthcare, and SaaS — promoted from intern to full-time engineer after 2 months.  -->
 
-### ⌚ Watchly  
-🔗 https://next-watchly.netlify.app  
-- Full CRUD app with Next.js + MongoDB  
-- Server Components architecture  
+Things I've built and deployed to real users:
 
-### ✍️ KODEX Blog Platform  
-🔗 https://mykodex.netlify.app  
-- JWT authentication system  
-- Cloudinary media optimization  
+- 🛒 **E-commerce platforms** — dual payment gateways (Stripe + Khalti), idempotent webhooks,
+  guest checkout with auto account creation, PDF invoice emails, full admin CMS
+- 📅 **Booking systems** — batch scheduling engines, VAT/deposit logic, Stripe checkout,
+  Cloudinary video delivery, program/retreat management dashboards
+- 🔐 **SaaS platforms** — third-party API integrations, SSO flows, OTP email verification,
+  dynamic sitemaps, on-demand cache revalidation, super-admin financial dashboards
+- 🏨 **Hospitality CMS** — SSR room inventory (Prisma relational schema), transactional email
+  (Resend), GTM + Microsoft Clarity analytics, JWT + HttpOnly cookie admin portals
+- 🏥 **Healthcare landing pages** — SVG animation systems, concurrent email flows,
+  dynamic PDF generation (referral forms)
 
----
-
-## 🛠 Tech Stack
-
-**Frontend:**  
-React 19 • Next.js • TypeScript • Tailwind CSS  
-
-**Backend:**  
-Node.js • Express • Prisma  
-
-**Database:**  
-PostgreSQL • MongoDB • MySQL  
-
-**Tools:**  
-Git • Docker • Postman • Cloudinary • Stripe  
+ <!--   > Code is private (client work). Happy to discuss architecture, decisions, and trade-offs in an interview.  -->
 
 ---
 
-## 📈 Current Focus
+## Personal projects (with code)
 
-- Advanced System Design  
-- Scalable backend architecture  
-- Building SaaS-level applications  
-
----
-
-## 💼 Open For Opportunities
-
-I’m currently open to:
-- Remote Developer Roles  
-- Freelance Projects (Full-Stack / Next.js)  
-- Long-term product development work  
+| Project | Stack | Link |
+|---|---|---|
+| **MERN E-Commerce** | React · Node.js · Express · MongoDB · RTK Query | [Live](https://the-mern-store.netlify.app) · [Code](https://github.com/Thapa-Dipesh/shopify) |
+| **Watchly Marketplace** | Next.js 15 · TypeScript · MongoDB · Server Actions | [Live](https://next-watchly.netlify.app) · [Code](https://github.com/Thapa-Dipesh) |
+| **Kodex** | React · Node.js · JWT · Bcrypt · Tailwind |  [Live](https://mykodex.netlify.app/) . [Code](https://github.com/Thapa-Dipesh/blog-task) |
 
 ---
 
-## 📬 Contact
+## Tech stack
 
-📧 Email: dipesht468@gmail.com  
-🌍 Location: Nepal (Remote Available)  
-🔗 Portfolio: https://thapa-dipesh.github.io/my-portfolio  
+```text
+Core        Next.js 15 (App Router)  ·  React 19  ·  TypeScript  ·  Node.js  ·  Express
+Database    Prisma ORM  ·  MySQL / Aiven  ·  PostgreSQL  ·  MongoDB  ·  Zod Validation
+Auth        JWT (jose)  ·  bcrypt  ·  HttpOnly Cookies  ·  Next.js Middleware  ·  OTP
+Payments    Stripe  ·  Khalti  ·  Webhook Automation  ·  Resend  ·  Nodemailer
+Cloud       Cloudinary  ·  Docker  ·  GitLab CI/CD  ·  Vercel
+Frontend    Tailwind CSS  ·  Framer Motion  ·  Redux Toolkit  ·  SVG / CSS Animations
+SEO         Next.js Metadata API  ·  Dynamic Sitemaps  ·  OpenGraph  ·  GTM  ·  Clarity
+```
 
 ---
 
-### ⚡ Mindset
+## Currently open to
 
-> I don’t just build projects — I build systems that solve real problems and can scale.
+- Remote full-stack roles (Next.js / React / Node.js)
+- Freelance contracts — SaaS, e-commerce, booking systems
+- Long-term product work with early-stage startups
+
+📧 **dipesht468@gmail.com** · Available for interviews anytime
