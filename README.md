@@ -47,7 +47,7 @@ Things I've built and deployed to real users:
 
 ```text
 Core        Next.js 15 (App Router)  ·  React 19  ·  TypeScript  ·  Node.js  ·  Express
-Database    Prisma ORM  ·  MySQL / Aiven  ·  PostgreSQL  ·  MongoDB  ·  Zod Validation
+Database    Prisma ORM  ·  MySQL   ·  PostgreSQL  ·  MongoDB  ·  Zod Validation
 Auth        JWT (jose)  ·  bcrypt  ·  HttpOnly Cookies  ·  Next.js Middleware  ·  OTP
 Payments    Stripe  ·  Khalti  ·  Webhook Automation  ·  Resend  ·  Nodemailer
 Cloud       Cloudinary  ·  Docker  ·  GitLab CI/CD  ·  Vercel
